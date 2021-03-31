@@ -54,14 +54,6 @@ let questions = [
         choice3: "msg(\"Hello World\");",
         choice4: "msgBox(\"Hello World\");",
         answer: 2,
-    },
-    {
-        question: "Ngan an cut khong?",
-        choice1: "Khong",
-        choice2: "Rat khong",
-        choice3: "Khong bao gio",
-        choice4: "Co a. Ngan ngay nau cung an nhieu lam",
-        answer: 4,
     }
 ];
 
